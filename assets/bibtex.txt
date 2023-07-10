@@ -1,0 +1,6 @@
+@inproceedings{kulkarni2023nifty,
+  title={Directed Ray Distance Functions for 3D Scene Reconstruction},
+  author={Kulkarni, Nilesh and Rempe, Davis and Genova, Kyle and Kundu, Abhijit and Johnson, Justin and Fouhey, David and Guibas, Leonidas }
+  booktitle={Arxiv},
+  year={2023},
+}
