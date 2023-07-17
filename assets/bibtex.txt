@@ -1,6 +1,8 @@
-@inproceedings{kulkarni2023nifty,
-  title={Directed Ray Distance Functions for 3D Scene Reconstruction},
-  author={Kulkarni, Nilesh and Rempe, Davis and Genova, Kyle and Kundu, Abhijit and Johnson, Justin and Fouhey, David and Guibas, Leonidas }
-  booktitle={Arxiv},
-  year={2023},
+@misc{kulkarni2023nifty,
+    title={NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis},
+    author={Nilesh Kulkarni and Davis Rempe and Kyle Genova and Abhijit Kundu and Justin Johnson and David Fouhey and Leonidas Guibas},
+    year={2023},
+    eprint={2307.07511},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
 }
